@@ -18,6 +18,6 @@ When I'm not coding, I am likely in the gym.
 
 ## LinkedIn
 
-<a href="https:/www.linkedin.com/in/martin-wein-dev">
+<a href="https://www.linkedin.com/in/martin-wein-dev">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40" width="150">
 </a>
